@@ -1,5 +1,5 @@
 /* Add a background color to the header element */
-* {
+header {
     background-color: honeydew;
 }
 
@@ -9,7 +9,7 @@ main {
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
-    align-self: center;
+    text-align: center;
 }
 
 /* Make your p tag a different color and italic */
@@ -21,7 +21,7 @@ p {
 
 /* Put a border around your image */
 img {
-    border: 1em;
+    border: 5px solid seagreen;
 }
 
 
@@ -31,6 +31,6 @@ ul {
 }
 
 footer {
-    background-color: cadetblue;
+    background-color: honeydew;
 }
 /* Add a background color to the footer element */
