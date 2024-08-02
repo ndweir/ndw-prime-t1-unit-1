@@ -14,8 +14,9 @@ h1 {
 
 /* Make your p tag a different color and italic */
 p {
-    color: azure;
+    color: darkblue;
     font-style: italic;
+    text-align: center;
 }
 
 
@@ -34,3 +35,11 @@ footer {
     background-color: honeydew;
 }
 /* Add a background color to the footer element */
+
+.backBody {
+    background-color: skyblue;
+}
+
+body {
+    background-color: lightcyan;
+}
